@@ -35,6 +35,6 @@ public class FacadeSingletonStrategyController implements Initializable {
     public void UpdateListDisplay(){
         displayMessage.setItems(messageModel.getMessageLogs());
     }
-
+    
 
 }
